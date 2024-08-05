@@ -1,4 +1,4 @@
-## The code for "Refined Infrared Small Target Detection Scheme with Single-Point Supervision"  
+## The code for paper "Refined Infrared Small Target Detection Scheme with Single-Point Supervision"  
 
 ### **The proposed scheme won the third place in the "ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection"**  
 
