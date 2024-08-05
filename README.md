@@ -9,3 +9,5 @@
 ### For the data set creation, you can use "centroid_anno.m" and "coarse_anno.m". For details, please refer to the details in LESPS ([[link](https://github.com/XinyiYing/LESPS?tab=readme-ov-file)])
 
 ### It is worth mentioning that GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)]) has extremely excellent performance in this task. For specific performance comparisons of each network, please refer to the paper. 
+
+### If you have any questions, please feel free to ask. I will reply in time on github.
