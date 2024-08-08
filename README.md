@@ -1,4 +1,4 @@
-## The code for paper "Refined Infrared Small Target Detection Scheme with Single-Point Supervision"  
+## The code for paper "Refined Infrared Small Target Detection Scheme with Single-Point Supervision" [[Paper/arXiv](https://www.arxiv.org/abs/2408.02773)]  
 
 ### **The proposed scheme won the third place in the "ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection"**  
 
@@ -8,6 +8,6 @@
 
 ### For the data set creation, you can use "centroid_anno.m" and "coarse_anno.m". For details, please refer to the details in LESPS ([[link](https://github.com/XinyiYing/LESPS?tab=readme-ov-file)])
 
-### It is worth mentioning that GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)]) has extremely excellent performance in this task. For specific performance comparisons of each network, please refer to the paper. 
+### It is worth mentioning that GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)]) has extremely excellent performance in this task. For specific performance comparisons of each network, please refer to the paper [[Paper/arXiv](https://www.arxiv.org/abs/2408.02773)]. 
 
 ### If you have any questions, please feel free to ask. I will reply in time on github.
