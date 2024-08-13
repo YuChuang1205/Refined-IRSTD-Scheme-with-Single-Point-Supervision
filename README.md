@@ -1,6 +1,6 @@
 ## The code for paper "Refined Infrared Small Target Detection Scheme with Single-Point Supervision" [[Paper/arXiv](https://www.arxiv.org/abs/2408.02773)]  
 
-### **The proposed scheme won the third place in the "ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection"**  
+### **The proposed scheme won the *2nd prize* in the "ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection"**  
 
 ### This code is based on Label Evolution with Single Point Supervision (LESPS) ([[link](https://github.com/XinyiYing/LESPS?tab=readme-ov-file)]) by Dr. Xinyi Ying. Thanks to the previous work.
 
